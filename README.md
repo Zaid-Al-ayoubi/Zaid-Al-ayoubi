@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Zaid 👋
 
 🎓 AI & Data Science Student @ Al-Hussein Bin Talal University  
