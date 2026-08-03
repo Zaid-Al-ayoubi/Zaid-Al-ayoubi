@@ -23,6 +23,7 @@
 |---------|-------------|------|
 | [Information Retrieval Engine](https://github.com/Zaid-Al-ayoubi/information-retrieval-engine) | Search engine with TF-IDF ranking & Soundex spell correction | Python, Scikit-learn |
 | [Monoalphabetic Cipher](https://github.com/Zaid-Al-ayoubi/monoalphabetic-cipher) | Desktop text encryption tool with GUI | Python, Tkinter |
+| [Emirati Voice Dataset Pipeline](https://github.com/YOUR_USERNAME/emirati-voice-dataset-pipeline) | End-to-end pipeline for building Gulf Arabic voice datasets for Azure Neural Voice training | Python, Whisper, Azure Speech |
 
 ---
 
