@@ -1,11 +1,10 @@
-# Hi, I'm Zaid 👋
+### 👋 Hi, I'm Zaid
 
-🎓 AI & Data Science Student @ Al-Hussein Bin Talal University  
-🧠 Building: Search Engines, Encryption Tools, FastAPI backends  
-🏆 McKinsey Forward Program Alumni | AWS Certified  
-🌍 Jordan | Open to Remote & Local Opportunities  
-
----
+- 🤖 AI Engineer @ Watira.ai — building GenAI/RAG systems & audio ML pipelines
+- 🎓 AI & Data Science Student @ Al-Hussein Bin Talal University
+- 🚀 Recently built: RAG agent with Azure AI Search + Azure OpenAI
+- 🏅 McKinsey Forward Program Alumni | AWS Certified
+- 📍 Jordan | Open to Remote & Local Opportunities
 
 ## 🛠️ Tech Stack
 
